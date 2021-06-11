@@ -1,0 +1,14 @@
+.list-card {
+  cursor: pointer;
+  background-image: url(../../../asset/1.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+  h4,
+  p {
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+}
